@@ -1,0 +1,6 @@
+INSTRUCTIONS to run the codes:
+
+Python file can be run in jupyter notebook as entire code is given in ipynb format.
+
+R file can be run in R studio.
+
